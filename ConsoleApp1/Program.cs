@@ -92,7 +92,7 @@ namespace ConsoleApp1
          //   Console.ReadLine();
 
 
-            string[] str = { "my", "", "name", "is", "pushpa", "@", "Tiwari" };
+            string[] str = { "my", "Pushpa", "name", "is", "pushpa", "@", "Tiwari" };
             Console.WriteLine(  "original array");
             for (int i = 0; i < str.Length; i++)
                 Console.Write(str[i] + " ");
